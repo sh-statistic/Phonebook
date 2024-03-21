@@ -56,10 +56,6 @@ This script sets up a MongoDB database using PyMongo, creates collections for `I
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Ensure you replace placeholders like `your_username` and `your_project` with appropriate values for your project. Additionally, make sure to include the `local_settings.py` file in your repository with the necessary database connection settings.
